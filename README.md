@@ -14,7 +14,7 @@ Don't edit [README.md](https://github.com/AbhigyanRanjan0505/OMGodCoder--Chatapp
 2nd way
   * To fork this repository
       * Note - I am not sponsering any youtube channel or any website while giving you instructions.
-      * [Watch this to know about this way](https://www.youtube.com/watch?v=_NrSWLQsDL4)
+      * [Watch this to know about forking](https://www.youtube.com/watch?v=_NrSWLQsDL4)
   
 
 ## For help and understanding
