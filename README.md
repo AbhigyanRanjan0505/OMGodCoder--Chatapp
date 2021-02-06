@@ -8,14 +8,15 @@ Don't edit [README.md](https://github.com/AbhigyanRanjan0505/OMGodCoder--Chatapp
 
 ## How to contribute
 1st way
-  -To chat with me about changes 
-  -How to do it 
-    -Comming soon
+  *To chat with me about changes
+    *How to do it
+      *Comming soon
 
 2nd way
-  -To fork this repository
-    -Note - I am not sponsering any youtube channel or any website while giving you instructions.
-    -[Watch this to know about this way](https://www.youtube.com/watch?v=_NrSWLQsDL4)
+  *To fork this repository
+      *How to do it
+        *Note - I am not sponsering any youtube channel or any website while giving you instructions.
+        *[Watch this to know about this way](https://www.youtube.com/watch?v=_NrSWLQsDL4)
   
 
 ## For help and understanding
