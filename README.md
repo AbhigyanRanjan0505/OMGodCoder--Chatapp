@@ -4,7 +4,7 @@
 This is the repository where you all can connect with me and create a chat app.
 
 ## Points to note before editing this repository
-Don't edit [README.md](https://github.com/AbhigyanRanjan0505/OMGodCoder--Chatapp/blob/main/README.md) or [License](https://github.com/AbhigyanRanjan0505/OMGodCoder--Chatapp/blob/main/LICENSE)
+Don't edit [README.md](https://github.com/AbhigyanRanjan0505/OMGodCoder--Chatapp/blob/main/README.md) or [LICENSE](https://github.com/AbhigyanRanjan0505/OMGodCoder--Chatapp/blob/main/LICENSE)
 
 ## How to contribute
 1st way
@@ -25,5 +25,5 @@ You can just comment that line which you don't understand i will help you out in
 ## For learning
 [You can also watch my tutorial for understanding the basis of these coding languages.](https://www.youtube.com/channel/UC0liYo_kvDqlb6RvEAS2zww)
 
-## License
-[Link to license](https://github.com/AbhigyanRanjan0505/OMGodCoder--Chatapp/blob/main/LICENSE)
+## LICENSE
+[Link to LICENSE](https://github.com/AbhigyanRanjan0505/OMGodCoder--Chatapp/blob/main/LICENSE)
